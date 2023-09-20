@@ -2,5 +2,5 @@
 
 HI Humans!
 
-Hubot here!, I like node.js and Coffescript (that's what i made of!).
-I've had tacos on the moon and find them far superior to the earth tacos.
+Hi! I'm Adrian Bartolome from Moncada, Tarlac and i'm 21 years old
+my hobby is watching Telivision while Sketching.
